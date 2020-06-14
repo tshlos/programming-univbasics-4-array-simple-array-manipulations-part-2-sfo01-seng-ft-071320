@@ -14,7 +14,7 @@ end
   
   
 def using_flatten(arr)
-  arr.flatten.to_s
+  arr.flatten
 end
 
 
