@@ -3,10 +3,10 @@ def using_concat(arr1, arr2)
 end
 
 
-def using_insert(Array, element)
-  Array[4].insert(element)
+def using_insert(arr, element)
+  arr[4].insert(element)
 end
 
 
-def using_uniq(Array)
+def using_uniq(arr)
   
